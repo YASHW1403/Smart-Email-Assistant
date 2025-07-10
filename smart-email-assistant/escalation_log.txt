@@ -1,0 +1,18 @@
+{"email_text": "What are the snacks available in the cafeteria today?", "predicted_category": "Other", "confidence": 0.45, "status": "escalated", "reason": "Low confidence, Unknown category"}
+{"email_text": "How to reset my email\n", "predicted_category": "IT", "confidence": 0.55, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "connect me with hr team", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Hi hello", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Hi hello i am yash", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Hi hello i am yash", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Hi hello i am yash", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Hi hello i am yash", "predicted_category": "IT", "confidence": 0.41, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Where can I find the new cafeteria menu?", "predicted_category": "Other", "confidence": 1.0, "status": "escalated", "reason": "Unknown category"}
+{"email_text": "Where can I find the new cafeteria menu? yash", "predicted_category": "Other", "confidence": 1.0, "status": "escalated", "reason": "Unknown category"}
+{"email_text": "When is the next townhall meeting scheduled?", "predicted_category": "Other", "confidence": 0.82, "status": "escalated", "reason": "Unknown category"}
+{"email_text": "I can't access anything at all. Please help.", "predicted_category": "Other", "confidence": 0.42, "status": "escalated", "reason": "Low confidence, Unknown category"}
+{"email_text": "I was supposed to receive my bonus last month but nothing has been credited yet.", "predicted_category": "IT", "confidence": 0.54, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Who approves relocation reimbursements?", "predicted_category": "IT", "confidence": 0.39, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "Where do I raise a complaint about late office cab service?", "predicted_category": "Other", "confidence": 0.42, "status": "escalated", "reason": "Low confidence, Unknown category"}
+{"email_text": "\tIs there any workshop planned for time management next month?", "predicted_category": "HR", "confidence": 0.47, "status": "escalated", "reason": "Low confidence"}
+{"email_text": "I submitted my resignation last week, but haven\u2019t received the final clearance checklist.", "predicted_category": "Other", "confidence": 0.43, "status": "escalated", "reason": "Low confidence, Unknown category"}
+{"email_text": "Whats the VPN id", "predicted_category": "Other", "confidence": 0.66, "status": "escalated", "reason": "Unknown category"}
