@@ -1,6 +1,6 @@
 # Smart Email Assistant 
 
-Hey, Myself YASH SAMIR WADEKAR, so this is Smart Email Assistant project that I build for the Newel Technologies Assignment. The assignment was to make a tool that can read company internal emails and reply to them automatically using machine learning and LLMs.
+Hey, Myself YASH SAMIR WADEKAR, so this is Smart Email Assistant project that I build. The project was to make a tool that can read company internal emails and reply to them automatically using machine learning and LLMs.
 
 ## What it does
 
